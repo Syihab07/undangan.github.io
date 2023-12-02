@@ -303,16 +303,16 @@ footer li {
 }
 
 /* Mobile phone */
-@media (max-width: 320px) {
+@media (max-width: 445px) {
   html {
     font-size: 55%;
   }
   .simply-countdown > .simply-section {
-    padding: 35px;
+    padding: 40px;
     margin: 3px;
   }
   .mynavbar .nav-link {
-    font-size: 1rem;
+    font-size: 2rem;
     text-align: center;
   }
 
