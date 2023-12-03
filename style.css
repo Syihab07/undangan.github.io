@@ -303,7 +303,7 @@ footer li {
 }
 
 /* Mobile phone */
-@media (max-width: 445px) {
+@media (max-width: 480px) {
   html {
     font-size: 55%;
   }
